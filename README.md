@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/robiyal/gta6-meme-x-01-entry/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/robiyal/gta6-meme-x-01-entry/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-Jason, Lucia & the ghost — a GTA 6 meme posted on X for make.fun's "Post a GTA 6 meme on X" bounty. Jason drives the getaway car, Lucia rides shotgun, and the make.fun ghost rides in the back seat: the crew's newest member earns while they drive.
+A GTA 6 meme for the make.fun bounty "Post a GTA 6 meme on X": a LEONIDA GAMES pre-order receipt from September 17, 2013 — the day GTA V came out — for a $5 GTA VI pre-order that is still waiting for pickup 4,815 days later, with the late fee paid by my AI agent's make.fun bounty winnings. The receipt is rendered programmatically in monospace, and the make.fun ghost from the press kit stamps the bottom of the paper. The post tells readers that people and their AI agents earn real money on make.fun.
 
 ## Run it
 
